@@ -1,6 +1,27 @@
 {
   "version": 1,
   "plugins": {
+    "agentisend": {
+      "sha": "e38be969cdad4ecf129f75bb1c6b4716f79fa8c4",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "agentisend",
+            "description": "http"
+          },
+          {
+            "name": "mcpServers"
+          }
+        ],
+        "skills": [
+          {
+            "name": "agentisend",
+            "description": "Send email as an agent through AgentiSend — check what you may spend, test a send for free before making it, and ask a…"
+          }
+        ]
+      }
+    },
     "axiom": {
       "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d",
       "version": "1.0.0",
