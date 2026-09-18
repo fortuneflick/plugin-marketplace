@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fortuneflick/postdashpro-claude-plugin.git",
-        "sha": "f6132719051f1c3d5b0e46002b32a0b22a77d714"
+        "sha": "c4c9e08ebd84ed15ee488461c30de2b61b5e4a2e"
       },
       "homepage": "https://postdashpro.com/guide",
       "keywords": ["postdashpro", "postdashpro mcp", "postdashpro social scheduler", "postdashpro ai agent", "postdashpro autopilot", "postdashpro post scheduling"],
