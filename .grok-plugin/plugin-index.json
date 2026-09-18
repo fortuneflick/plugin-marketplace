@@ -1,6 +1,24 @@
 {
   "version": 1,
   "plugins": {
+    "admaxxer": {
+      "sha": "684cd2d59ab0f675959bce3379d7ee98717668ab",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "admaxxer",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "admaxxer",
+            "description": "Read a marketing workspace's ad accounts, revenue attribution and web analytics through Admaxxer, and run campaign-leve…"
+          }
+        ]
+      }
+    },
     "axiom": {
       "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d",
       "version": "1.0.0",

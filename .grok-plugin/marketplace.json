@@ -369,6 +369,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "admaxxer",
+      "description": "Read your ad accounts, revenue attribution and web analytics across Meta, Google, TikTok and Klaviyo, then pause a campaign or change a daily budget with a preview you approve in the conversation. 17 tools, read-only by default, and anything an agent creates lands paused.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fortuneflick/admaxxer-claude-plugin.git",
+        "sha": "684cd2d59ab0f675959bce3379d7ee98717668ab"
+      },
+      "homepage": "https://admaxxer.com/documentation/connect-any-ai",
+      "keywords": ["admaxxer", "admaxxer mcp", "admaxxer ad ops", "admaxxer attribution", "admaxxer web analytics", "admaxxer meta google ads"],
+      "domains": ["admaxxer.com"]
     }
   ]
 }
