@@ -613,6 +613,24 @@
         ]
       }
     },
+    "postdashpro": {
+      "sha": "f6132719051f1c3d5b0e46002b32a0b22a77d714",
+      "version": "1.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "postdashpro",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "postdashpro",
+            "description": "Schedule social posts through PostDashPro to 12 networks — find or generate the image, write the caption per platform,…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "e31650eea443aaea1e84cc15d88c13f40080b275",
       "components": {

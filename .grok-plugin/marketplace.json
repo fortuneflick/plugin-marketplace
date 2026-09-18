@@ -369,6 +369,19 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "postdashpro",
+      "description": "Schedule social posts to 12 networks from an agent: attach or generate the image, queue each post in the user's own timezone, and leave every one for a person to review before it publishes.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/fortuneflick/postdashpro-claude-plugin.git",
+        "sha": "f6132719051f1c3d5b0e46002b32a0b22a77d714"
+      },
+      "homepage": "https://postdashpro.com/guide",
+      "keywords": ["postdashpro", "postdashpro mcp", "postdashpro social scheduler", "postdashpro ai agent", "postdashpro autopilot", "postdashpro post scheduling"],
+      "domains": ["postdashpro.com"]
     }
   ]
 }
