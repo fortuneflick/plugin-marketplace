@@ -579,7 +579,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fortuneflick/agentisend-claude-plugin.git",
-        "sha": "e38be969cdad4ecf129f75bb1c6b4716f79fa8c4"
+        "sha": "194d93a754d2fef32d8afbaa2eb0505b6daf0cf4"
       },
       "homepage": "https://agentisend.com/docs/guides/mcp",
       "keywords": [
