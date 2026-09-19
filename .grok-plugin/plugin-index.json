@@ -614,8 +614,8 @@
       }
     },
     "postdashpro": {
-      "sha": "a649848ba510c876ab7a9cb36f6ca62d00267a2d",
-      "version": "1.2.0",
+      "sha": "368770850042879f9e9605d62a7dd8669fb1b14a",
+      "version": "1.3.0",
       "components": {
         "mcpServers": [
           {
@@ -626,7 +626,7 @@
         "skills": [
           {
             "name": "postdashpro",
-            "description": "Schedule social posts through PostDashPro to 12 networks — find or attach the image, write the caption per platform, an…"
+            "description": "PostDashPro is social post scheduling for AI agents. Find or attach the image, write the caption per network, preflight…"
           }
         ]
       }
