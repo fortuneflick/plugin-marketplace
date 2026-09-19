@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "admaxxer": {
-      "sha": "0f0fe1dc976ae4117bb083f26fb729b98691b385",
+      "sha": "1324740e3dc6e9f4141f8f7236a7da4d250f8783",
       "version": "0.1.0",
       "components": {
         "mcpServers": [
