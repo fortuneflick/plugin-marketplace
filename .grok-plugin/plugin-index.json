@@ -614,7 +614,7 @@
       }
     },
     "postdashpro": {
-      "sha": "a8f34fe17ade3b1ae2c6899b1280cb001bc272ad",
+      "sha": "a649848ba510c876ab7a9cb36f6ca62d00267a2d",
       "version": "1.2.0",
       "components": {
         "mcpServers": [
@@ -626,7 +626,7 @@
         "skills": [
           {
             "name": "postdashpro",
-            "description": "Schedule social posts through PostDashPro to 12 networks — find or generate the image, write the caption per platform,…"
+            "description": "Schedule social posts through PostDashPro to 12 networks — find or attach the image, write the caption per platform, an…"
           }
         ]
       }
