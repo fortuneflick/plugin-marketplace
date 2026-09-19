@@ -372,12 +372,12 @@
     },
     {
       "name": "admaxxer",
-      "description": "Read your ad accounts, revenue attribution and web analytics across Meta, Google, TikTok and Klaviyo, then pause a campaign or change a daily budget with a preview you approve in the conversation. 17 tools, read-only by default, and anything an agent creates lands paused.",
+      "description": "Read your ad accounts, revenue attribution and web analytics across Meta, Google, TikTok and Klaviyo, then pause a campaign, ad set or ad or change a daily budget with a preview you approve in the conversation. 28 tools, read-only by default, and anything an agent creates lands paused.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/fortuneflick/admaxxer-claude-plugin.git",
-        "sha": "684cd2d59ab0f675959bce3379d7ee98717668ab"
+        "sha": "0f0fe1dc976ae4117bb083f26fb729b98691b385"
       },
       "homepage": "https://admaxxer.com/documentation/connect-any-ai",
       "keywords": ["admaxxer", "admaxxer mcp", "admaxxer ad ops", "admaxxer attribution", "admaxxer web analytics", "admaxxer meta google ads"],

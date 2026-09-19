@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "admaxxer": {
-      "sha": "684cd2d59ab0f675959bce3379d7ee98717668ab",
+      "sha": "0f0fe1dc976ae4117bb083f26fb729b98691b385",
       "version": "0.1.0",
       "components": {
         "mcpServers": [
@@ -14,7 +14,7 @@
         "skills": [
           {
             "name": "admaxxer",
-            "description": "Read a marketing workspace's ad accounts, revenue attribution and web analytics through Admaxxer, and run campaign-leve…"
+            "description": "Admaxxer is ad account analytics and campaign control for AI agents. Read spend, ROAS, MER, attribution and traffic, th…"
           }
         ]
       }
