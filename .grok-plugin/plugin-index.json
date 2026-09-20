@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "agentisend": {
-      "sha": "8de6d18328beb3b4045282d1fc275c99a9aab4a8",
+      "sha": "853264ca0255aeab2656625c02b46f5ba0885739",
       "version": "0.1.0",
       "components": {
         "mcpServers": [
@@ -14,7 +14,7 @@
         "skills": [
           {
             "name": "agentisend",
-            "description": "AgentiSend is a transactional email API for AI agents. Check what you may spend, preflight a send for free, and ask a p…"
+            "description": "AgentiSend is a transactional email API. Check what you may spend, preflight a send for free, and ask a person when a s…"
           }
         ]
       }
