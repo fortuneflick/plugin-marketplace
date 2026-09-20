@@ -574,12 +574,12 @@
     },
     {
       "name": "agentisend",
-      "description": "AgentiSend is a transactional email API: send through verified domains with a message log, budgets, a preflight and refusals that name the fix; built so AI agents can send on your behalf. The hosted MCP server at https://api.agentisend.com/mcp exposes 81 tools (43 on tools/list; the rest via list_more_tools). A send is one message or a batch of up to 500 items with per-item results. preflight_email runs every gate a real send runs, sends nothing, and costs nothing. Every 4xx returns code, message, and fix. There is no tool for unsolicited mail. Auth is a bearer API key or OAuth 2.1 with dynamic client registration. Starter prompts: \"Send this receipt to the customer.\" \"Preflight this send and tell me what would stop it.\" \"What can I spend today?\"",
+      "description": "AgentiSend is a transactional email API: send through verified domains with a message log, budgets, a preflight and refusals that name the fix; built so AI agents can send on your behalf. The hosted MCP server at https://api.agentisend.com/mcp exposes 82 tools (44 on tools/list; the rest via list_more_tools). A send is one message or a batch of up to 500 items with per-item results. preflight_email runs every gate a real send runs, sends nothing, and costs nothing. Every 4xx returns code, message, and fix. There is no tool for unsolicited mail. Auth is a bearer API key or OAuth 2.1 with dynamic client registration. Starter prompts: \"Send this receipt to the customer.\" \"Preflight this send and tell me what would stop it.\" \"What can I spend today?\"",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/fortuneflick/agentisend-claude-plugin.git",
-        "sha": "853264ca0255aeab2656625c02b46f5ba0885739"
+        "sha": "43d01f9da79f1345f6f3d60dfef9da9948befbb8"
       },
       "homepage": "https://agentisend.com/docs/guides/mcp",
       "keywords": [
