@@ -314,7 +314,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fortuneflick/warmysender-claude-plugin.git",
-        "sha": "a6bc067975ef239b6d9a48ee3a06d184077b2c01"
+        "sha": "a0de76051624afa84d3e95f3b300724fc457cf67"
       },
       "homepage": "https://warmysender.com/ai-agents",
       "keywords": ["warmysender", "warmysender cold email", "warmysender warmup", "warmysender linkedin outreach", "warmysender email verification", "warmysender leads"],
