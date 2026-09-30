@@ -2,7 +2,7 @@
   "version": 1,
   "plugins": {
     "agentisend": {
-      "sha": "582fe1617e57ee2d3f27634c883146faf1f2aae2",
+      "sha": "eef16e80ec48a7cea95550620bc16874f57e49c4",
       "version": "0.1.0",
       "components": {
         "mcpServers": [
