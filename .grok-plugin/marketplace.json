@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fortuneflick/agentisend-claude-plugin.git",
-        "sha": "6823a1904452f8af0d4d0ab97202fff0ead82103"
+        "sha": "e070ff89fe2403d6f145a9a09693abcf95ed2663"
       },
       "homepage": "https://agentisend.com/docs/guides/mcp",
       "keywords": ["agentisend", "agentisend email", "agentisend mcp", "agentisend transactional email", "agentisend agent budget", "agentisend deliverability", "agentisend mcp server", "agentisend mcp connector"],
